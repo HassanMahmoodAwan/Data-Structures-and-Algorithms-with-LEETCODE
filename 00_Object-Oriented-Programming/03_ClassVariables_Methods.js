@@ -1,5 +1,12 @@
+/*
+*   Benefits of Class Data Members / Methods:
+*       1- dataMembers / Methods will be same for all Instances.
+*       2- Represents
+* */
+
+
 class Users{
-//  === Class property
+//  === Class data members
     static UsersType = "Window_Shopper"
 
 //  === Class/Static Methods             // Instance Variable Not Accessible.
