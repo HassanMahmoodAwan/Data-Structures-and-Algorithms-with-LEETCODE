@@ -7,8 +7,11 @@ console.log(Add5.prototype)         // {}
 function Users(){
     this.userName = "Hassan"
     this.userId = 1
+
+    console.log(this);
 }
-console.log(Users.prototype)            // {}
+Users()
+
 Users.prototype.city = "Lahore"
 console.log(Users.prototype)            // { city:"Lahore" }
 

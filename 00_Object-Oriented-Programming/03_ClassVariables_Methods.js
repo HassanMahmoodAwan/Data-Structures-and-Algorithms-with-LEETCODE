@@ -2,6 +2,7 @@
 *   Benefits of Class Data Members / Methods:
 *       1- dataMembers / Methods will be same for all Instances.
 *       2- Represents
+*       3- Instance variable not Accessable
 * */
 
 

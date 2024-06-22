@@ -12,7 +12,7 @@ class Clothing_Store{
     get displayStoreName(){
         return this.storeName
     }
-    get storeType(){
+    storeType(){
         return `${this.category} in  ${this.location} and selling ${this.mode} !`
     }
 }
@@ -22,4 +22,4 @@ let obj = new Clothing_Store("Women", "Pakistan", "Online")
 obj.storeName = "Zainab-Attire"             // Changes Value
 obj.category = "Eastern Women Wear"         // Changes as well
 console.log(obj.displayStoreName)
-console.log(obj.storeType)
+console.log(obj.storeType())
