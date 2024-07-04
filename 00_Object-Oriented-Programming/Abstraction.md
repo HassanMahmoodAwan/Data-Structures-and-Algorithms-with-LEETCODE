@@ -8,4 +8,4 @@
 <h3>Features: </h3>
 <p>==> Fouces on What, not How.</p>
 <p>==> Simplicity, High Level Overview</p>
-<p>==> Obtain through Abstract Classes</p>
+<p>==> Obtain through Abstract Classes and Interfaces</p>
